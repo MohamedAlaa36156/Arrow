@@ -1,7 +1,7 @@
 import os
 import time
+n=int(input("Enter the height of the arrow"))
 while(1):
-	n=5
 	for i in range(n):
 		for j in range(i,n):
 			print(" ",end=" ")
